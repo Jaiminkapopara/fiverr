@@ -56,7 +56,7 @@ const Home = () => {
             </p>
           </div>
           <div className="item">
-            <video src="https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/k8fxrkcf9xsjg74vnpcl" controls />
+            <video src="https://fiverr-res.cloudinary.com/video/upload/t_fiverr_hd/k8fxrkcf9xsjg74vnpcl" controls autoplay/>
           </div>
         </div>
       </div>
